@@ -17,7 +17,7 @@ public class CameraMovement : MonoBehaviour
     private void Update()
     {
         GetInput();
-    }
+    } 
 
     private void GetInput()
     {
